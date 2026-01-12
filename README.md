@@ -1,4 +1,4 @@
-### My New Website in HTML
+# My New Website in HTML
 ## 📌 About the Project
 
 This is a basic static website created using only HTML.
@@ -38,8 +38,17 @@ Open the index.html file in any web browser
 
 ## 📸 Preview
 
-(Add a screenshot of your website here)
+<img width="1916" height="907" alt="{33D449C6-5B90-430A-9FBB-9B30CD3D7EDF}" src="https://github.com/user-attachments/assets/1db48eee-329f-4bbd-bc5a-6a5b1b322b0b" />
+
 
 ## 📄 License
 
 This project is for learning and practice purposes only.
+
+## 📧 Contact
+
+For any questions, feel free to reach out:
+
+VIKKU KUMAR
+
+Email: vikku.kr98@gmail.com
